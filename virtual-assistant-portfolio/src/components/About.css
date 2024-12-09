@@ -1,0 +1,20 @@
+/* src/components/About.css */
+.about-section {
+  background-color: #f9f9f9;
+  padding: 3rem 1rem;
+  text-align: center;
+}
+
+.about-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  animation: fadeInFromLeft 1s ease-in-out forwards;
+}
+
+.about-section p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 600px;
+  animation: fadeInFromRight 1s ease-in-out forwards;
+}

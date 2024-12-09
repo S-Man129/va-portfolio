@@ -1,0 +1,8 @@
+/* src/components/Footer.css */
+.footer {
+  background-color: #f4f4f4;
+  padding: 1.5rem;
+  text-align: center;
+  opacity: 0;
+  animation: fadeIn 1s ease-in-out forwards;
+}
